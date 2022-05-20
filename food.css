@@ -1,0 +1,109 @@
+*{
+    margin: 1%;
+    padding: 1%;
+    text-transform: capitalize;
+    }
+    body{
+    width: 100%;
+    height: auto;
+    }
+    header{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    }
+    .Cafe{
+    display: flex;
+    justify-content: center;
+    }
+    .Cafe img{
+    margin: 50px;
+    }
+    .foodie{
+    display: flex;
+    justify-content: center;
+    }
+    main img{
+    height: 150px;
+    width: 150px;
+    }
+    .tasty{
+    border: 15px solid orange;
+    }
+    .neat{
+    border: 15px solid orange;
+    border-style: dashed;
+    }
+    .clean{
+    border: 15px solid orange;
+    border-style:dotted;
+    }
+    .new{
+        border: 15px solid orange;
+        border-left: 10px solid rgb(221, 233, 59);
+        border-top: 10px solid rgb(17, 163, 41);
+        }
+        .mania{
+        border: 15px solid orange;
+        border-right: 15px solid rgb(240, 60, 144);
+        border-bottom: 15px solid rgb(235, 163, 57);
+        width: fit-content;
+        margin: 50px;
+        }
+        .mint{
+        border: 15px solid orange;
+        border-right: 15px solid rgb(183, 224, 69);
+        border-bottom: 15px solid rgba(94, 252, 121, 0.247);
+        }
+        .eat{
+        border: 15px solid orange;
+        border-left: 10px solid rgb(252, 198, 51);
+        border-top: 10px solid rgba(175, 226, 35, 0.788);
+        width: fit-content;
+        margin: 50px;
+        }
+        .sweeter{
+        border: 10px solid orange;
+        margin: 5px;
+        }
+        .drink{
+        border: 10px solid orange;
+        width: fit-content;
+        margin: 50px;
+        }
+        .delight{
+            border-left: 15px blue;
+        margin-left:45%;
+        margin-bottom: 30px;
+        box-shadow: 5px 5px 10px black;
+        }
+        .burgercafe{
+        background-color: orange;
+        color: white;
+        padding: 20px;
+        height: 200px;
+        border-top:10px solid rgb(25, 127, 243);
+        border-left: 10px solid rgb(235, 198, 33);
+        border-bottom: 10px solid rgb(235, 6, 147);
+        border-right: 10px solid rgb(77, 153, 6);
+        margin-bottom: 20px;
+        }
+        h3{
+        text-align: center;
+        margin-bottom: 10px;
+        font-size: 25px;
+        }
+        .footer{
+        text-align: center;
+        width: 100%;
+        padding: 50px 0px;
+        background-color: orange;
+        }
+        .footer a{
+        text-decoration: none;
+        color: white;
+        font-size: 25px;
+        margin: 30px;
+        }
